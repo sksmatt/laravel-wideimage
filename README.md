@@ -1,5 +1,6 @@
-Laravel Bundle for WideImage
-############################
+# Laravel Bundle for WideImage
+
+## How-to
 
 Copy this to your application/bundles.php file:
 
